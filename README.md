@@ -1,5 +1,5 @@
 # OC_iOS_Activities
-Activities learning iOS development with OpenClassrooms
+All activities : learning iOS development with OpenClassrooms
 
 Projet 1:
 -> Définissez votre stratégie d'apprentissage !
